@@ -16,13 +16,13 @@ The user endpoint returns the list of all users in JSON format. All the entities
   
 
  ## Update package.json, add dependencies path for Shared-orm-library
-  
-   - {  
+  ```JSON
+    {  
         "dependencies": {
             "Shared-orm-library":"c:/Users/user/OneDrive/Documents/GitHub/Shared-orm-library"
         }
     }
- 
+  ```
  ## Once clone is successful and package.json updated, to install required modules
 
    - Run > npm install 
