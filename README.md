@@ -21,7 +21,7 @@ The user endpoint returns the list of all users in JSON format. All the entities
         "dependencies": {
             "Shared-orm-library":"c:/Users/user/OneDrive/Documents/GitHub/Shared-orm-library"
         }
-     }
+    }
  
  ## Once clone is successful and package.json updated, to install required modules
 
