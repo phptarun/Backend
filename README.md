@@ -3,7 +3,8 @@ The user endpoint returns the list of all users in JSON format. All the entities
 
 # Installation
 
- ## Make sure following versions are installed
+ ## Prerequisite
+
 
    - NodeJS - Node v18.17.1
 
