@@ -15,7 +15,7 @@ The user endpoint returns the list of all users in JSON format. All the entities
 
   
 
- ## Update package.json, add dependencies path for Shared-orm-library
+ ## Update package.json, add dependencies path for [Shared-orm-library](https://github.com/phptarun/Shared-orm-library.git)
   ```JSON
     {  
         "dependencies": {
